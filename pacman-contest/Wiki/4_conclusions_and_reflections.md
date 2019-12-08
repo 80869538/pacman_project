@@ -1,0 +1,9 @@
+# Conclusion
+  
+This is a very interesting and meaningful assignment, from which every member learn a lot from it. 
+At the beginning of our task, we think that the task is so difficult that we don’t know how to finish it. However, after many times of thinking, trying and talking, we are more and more familiar with this assignment. Gradually, we know what we should do, and we became more confident. Next, we tried four different techniques to get a better score. Every time when we try a new approach, it always brings us some new surprises and troubles. Even though sometimes the exploring processes are difficult, our team members never give up and try our best to better achievement. For example, when we use Monte Carlo Tree search in our first Pacman, our Pacman always hang around at the starting point. We feel so frustrated, but after analyzing, we find out that the problems are that the reward is too deep in the search tree. Then, we set one expansion depth on the search tree. Then, our Pacman can go out to eat foods, so we solved this small problem. The analyzing processes and solving processes are attractive, even if sometimes it makes us frustrated and disappointed. When we think out a new strategy and apply in our Pacman to beat our competitors, we feel very excited. Finally, after applying many smart strategies, listed in section3, in our Pacman, our Pacman performs better and even can beat super.
+
+
+# Reflection
+During the assignment, we think that it is necessary to communicate frequently between team members, which makes us share ideas with each other in time. By communication, we can also learn good advises and feedbacks from each other. It is useful for better finishing our project. 
+What’s more, from this assignment, it is clear that there is an ability difference between team members, so it is necessary to communicate with and learn from team members who have stronger programming abilities.
